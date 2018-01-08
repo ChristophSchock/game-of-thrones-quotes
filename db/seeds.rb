@@ -39,6 +39,16 @@ quotes = [
     {quote: "Yes, all Lannisters are lions. And when a Tyrell farts, it smells like a rose. But how kind is he? How clever? Has he a good heart, a gentle hand?", character: "Olenna Tyrell"},
     {quote: "It's not easy being drunk all the time. If it were easy, everyone would do it.", character: "Tyrion"},
     {quote: "Why are all the gods such vicious cunts? Where's the god of tits and wine?", character: "Tyrion"},
+    {quote: "I will do what queens do. I will rule.", character: "Daenerys"},
+    {quote: "Freedom means making your own choices.", character: "Daenerys"},
+    {quote: "All men must die, but we are no men.", chracter: "Daenerys"},
+    {quote: "I will take what is mine, with fire and blood!", character: "Daenerys"},
+    {quote: "I am not going to stop the wheel. I'm going to break the weel.", character: "Daenerys"},
+    {quote: "The next time you raise a hand to me, will be the last time you have hands!", character: "Daenerys"},
+    {quote: "I haven't given you permission to leave", character: "Daenerys"},
+    {quote: "I will answer Injustice with Justice.", character: "Daenerys"},
+    {quote: "Turn us away, and we will burn you first.", character: "Daenerys"},
+    {quote: "We are here to discuss your surrender.", character: "Daenerys"},
 ]
 
 quotes.each do |quote|
